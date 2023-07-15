@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-merged_res-70:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-main-72:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-merged_res-70:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-main-72:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-merged_res-70:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-main-72:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-merged_res-70:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-main-72:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-merged_res-70:/drawable_tile_preview.png.flat",
+        "source": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-main-72:/drawable/tile_preview.png"
+    },
+    {
+        "merged": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-merged_res-70:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-main-72:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-merged_res-70:/drawable-round_tile_preview.png.flat",
+        "source": "mx.edu.utxj.ti.idgs.ddi.practica3_200561.wear-main-72:/drawable-round/tile_preview.png"
+    }
+]

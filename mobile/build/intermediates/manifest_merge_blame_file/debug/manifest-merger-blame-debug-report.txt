@@ -1,0 +1,91 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="mx.edu.utxj.ti.idgs.ddi.practica3_200561"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:5:5-24:19
+12        android:allowBackup="true"
+12-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.8.0] C:\Users\PC-19\.gradle\caches\transforms-3\af4b7c5236c9ff872e815c327d77073f\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:8:9-54
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:10:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:11:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:12:9-35
+22        android:theme="@style/Theme.Practica3_200291" >
+22-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:13:9-54
+23        <activity
+23-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:15:9-23:20
+24            android:name="mx.edu.utxj.ti.idgs.ddi.practica3_200561.MainActivity"
+24-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:16:13-41
+25            android:exported="true" >
+25-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:17:13-36
+26            <intent-filter>
+26-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:18:13-22:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:19:17-69
+27-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:19:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:21:17-77
+29-->C:\Users\PC-19\Downloads\Elisama\DDI_Practica3_200561\mobile\src\main\AndroidManifest.xml:21:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\PC-19\.gradle\caches\transforms-3\a27a56c2fa5daadfcb96d63d50b3e3cd\transformed\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+33            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+33-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\PC-19\.gradle\caches\transforms-3\a27a56c2fa5daadfcb96d63d50b3e3cd\transformed\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+34            android:exported="false"
+34-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\PC-19\.gradle\caches\transforms-3\a27a56c2fa5daadfcb96d63d50b3e3cd\transformed\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+35            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+35-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\PC-19\.gradle\caches\transforms-3\a27a56c2fa5daadfcb96d63d50b3e3cd\transformed\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+36
+37        <meta-data
+37-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\PC-19\.gradle\caches\transforms-3\9e744cddee146f0e0b6dcc1b6d7f3334\transformed\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+38            android:name="com.google.android.gms.version"
+38-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\PC-19\.gradle\caches\transforms-3\9e744cddee146f0e0b6dcc1b6d7f3334\transformed\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+39            android:value="@integer/google_play_services_version" />
+39-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\PC-19\.gradle\caches\transforms-3\9e744cddee146f0e0b6dcc1b6d7f3334\transformed\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+40
+41        <provider
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PC-19\.gradle\caches\transforms-3\8104f886aa61327b5c3709e90d2bf999\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+42            android:name="androidx.startup.InitializationProvider"
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PC-19\.gradle\caches\transforms-3\8104f886aa61327b5c3709e90d2bf999\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+43            android:authorities="mx.edu.utxj.ti.idgs.ddi.practica3_200561.androidx-startup"
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PC-19\.gradle\caches\transforms-3\8104f886aa61327b5c3709e90d2bf999\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+44            android:exported="false" >
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PC-19\.gradle\caches\transforms-3\8104f886aa61327b5c3709e90d2bf999\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+45            <meta-data
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PC-19\.gradle\caches\transforms-3\8104f886aa61327b5c3709e90d2bf999\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+46                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PC-19\.gradle\caches\transforms-3\8104f886aa61327b5c3709e90d2bf999\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+47                android:value="androidx.startup" />
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PC-19\.gradle\caches\transforms-3\8104f886aa61327b5c3709e90d2bf999\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+48            <meta-data
+48-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PC-19\.gradle\caches\transforms-3\6105f93f4bbcbaf21049d6bf199c6684\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+49                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+49-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PC-19\.gradle\caches\transforms-3\6105f93f4bbcbaf21049d6bf199c6684\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+50                android:value="androidx.startup" />
+50-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PC-19\.gradle\caches\transforms-3\6105f93f4bbcbaf21049d6bf199c6684\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+51        </provider>
+52    </application>
+53
+54</manifest>
