@@ -19,6 +19,6 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |   |
-| Descripción  |   |
-|  Fecha de Carga |   |
+| Nombre  | Practica 3 Hola Mundo Wearable  |
+| Descripción  | Creación de primer mensaje de hola mundo para wearables cuadrados y redondos, imprimiendo un mensaje de "Hello World"  |
+|  Fecha de Carga |  19/05/23 |
