@@ -22,3 +22,17 @@
 | Nombre  | Practica 3 Hola Mundo Wearable  |
 | Descripción  | Creación de primer mensaje de hola mundo para wearables cuadrados y redondos, imprimiendo un mensaje de "Hello World"  |
 |  Fecha de Carga |  19/05/23 |
+
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+<br>
+<br>
+<br>
+<br>
+
+[![Imagen1-2.jpg](https://i.postimg.cc/x1swjyVj/Imagen1-2.jpg)](https://postimg.cc/0zwWcSNh)
